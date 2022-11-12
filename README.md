@@ -1,4 +1,4 @@
-# Zajecia nr 1
+# Zajęcia nr 1
 
 ## Zadanie 1
 
