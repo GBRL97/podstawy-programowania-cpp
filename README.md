@@ -1,13 +1,20 @@
-# Podstawy programowania w języku C++
+# Zajecia nr 1
 
-## Przydatne linki:
+## Zadanie 1
 
-Polski SPOJ: https://pl.spoj.com/
+Napisz program, ktory wypisze na ekran konsoli napis "Hello world!"
 
-SPOJ: https://www.spoj.com/
+## Zadanie 2
 
-Project Euler: https://projecteuler.net/
+Napisz program, który wczyta od użytkownika imię i nazwisko do dwóch zmiennych typu string, a następnie wypisze je na ekran.
 
-Pasja informatyki: https://www.youtube.com/c/Pasjainformatykitutoriale
+## Zadanie 3
 
-Strona cpp0x: https://cpp0x.pl/
+Napisz prosty system logowania, który najpierw zarejestruje użytkownika, a następnie poprosi o zalogowanie wcześniej wpisanymi danymi przy rejestracji. Program ma wypisać komunikat, czy udało się zalogować.
+
+## ZADANIE DOMOWE
+
+1. Usprawnij system logowania, aby przy logowaniu złymi danymi wypisał informacje, co konkretnie jest złe (jeśli użytkownik wpisał dobre hasło a zły login ma wypisać komunikat o złym loginie). Przy rejestracji powinien wymagać min. 8 znakowego hasła.
+
+3. Napisać prosty kalkulator operujacy na dwoch liczbach i wykonujacy operacje: + - / * oraz % (reszta z dzielenia). Sprawdzić, jak zachowuje sie program przy dzieleniu przez 0.
+
