@@ -1,13 +1,5 @@
-# Podstawy programowania w języku C++
+# Zajęcia 2
 
-## Przydatne linki:
+## Zadanie 1
 
-Polski SPOJ: https://pl.spoj.com/
-
-SPOJ: https://www.spoj.com/
-
-Project Euler: https://projecteuler.net/
-
-Pasja informatyki: https://www.youtube.com/c/Pasjainformatykitutoriale
-
-Strona cpp0x: https://cpp0x.pl/
+Wykonać sprawdzarkę poprawności numeru PESEL zgodnie z instrukcjami dostępnymi na stronie: https://pl.spoj.com/problems/JPESEL/
