@@ -14,7 +14,7 @@ Napisz prosty system logowania, który najpierw zarejestruje użytkownika, a nas
 
 ## ZADANIE DOMOWE
 
-1. Usprawnij system logowania, aby przy logowaniu złymi danymi wypisał informacje, co konkretnie jest złe (jeśli użytkownik wpisał dobre hasło a zły login ma wypisać komunikat o złym loginie). Przy rejestracji powinien wymagać min. 8 znakowego hasła.
+1. Usprawnij system logowania, aby przy logowaniu złymi danymi wypisał informacje, co konkretnie jest złe (jeśli użytkownik wpisał dobre hasło a zły login ma wypisać komunikat o złym loginie). Przy rejestracji powinien wymagać hasła nie krótszego niz 8 znaków.
 
-3. Napisać prosty kalkulator operujacy na dwoch liczbach i wykonujacy operacje: + - / * oraz % (reszta z dzielenia). Sprawdzić, jak zachowuje sie program przy dzieleniu przez 0.
+3. Napisać prosty kalkulator operujacy na dwoch liczbach całkowitych i wykonujacy operacje: + - / * oraz % (reszta z dzielenia). Sprawdzić, jak zachowuje sie program przy dzieleniu przez 0. Zapobiec takiemu działaniu dając odpowiednią instrukcje warunkową.
 
