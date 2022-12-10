@@ -1,6 +1,9 @@
 # Zajęcia 4
 
 ## Zadanie 1
+Napisz program, który wylosuje 30 liczb z przedziału [a,b]. Liczby a,b wprowadza użytkownik.
+
+## Zadanie 2
 Napisz prostą grę, w której losowana jest pewna losowa liczba z zakresu jaki poda gracz. Następnie gracz typuje liczbę, jaka została wylosowana. Program ma wypisać komunikat 
 * "Twoja liczba jest mniejsza niż wylosowana", jeśli wytypował zbyt małą liczbę
 * "Twoja liczba jest większa niż wylosowana", jeśli wytypował zbyt dużą liczbę
