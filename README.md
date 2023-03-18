@@ -7,6 +7,9 @@ Napisać program, który wczyta od użytkownika jego imię i wiek (zmienna typu 
 Napisać program, który wypisze 10 razy "Hello world". Program powinien działać w oparciu o pętle.
 
 ## Zadanie 3
+Zmodyfikuj program nr 2, aby wypisywał "Hello World" n-razy, gdzie liczbę n poda uzytkownik.
+
+## Zadanie 4
 Zwalidować rozwiązanie zadania z poprzednich zajęć https://pl.spoj.com/problems/JPESEL/ . Do rozwiązania tego zadania do zmienna przechowująca pesel powinna być typu long long, gdyż typ int ma niewystarczający zakres aby pomieścić liczbę 11-cyfrową. Spróbować fragment kodu odpowiedzialny za dzielenie i przechwycanie ostatniej cyfry peselu zrealizować w oparciu o pętle.
 ![image](https://user-images.githubusercontent.com/19939989/202818277-c6cc52a9-77e0-444e-b196-9aa798d8f8f8.png)
 
