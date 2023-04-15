@@ -8,7 +8,7 @@
 
 3. Napisz program, który uporządkuje 3 liczby malejąco BEZ POWTÓRZEŃ (jeśli jakaś liczba pojawia się kilkukrotnie, wypisz ją tylko raz).
 
-4. Zadeklarować tablicę 100-elementową, wypełnić ją liczbami losowymi z przedziału [-100,100] i portować tablicę korzystając z algorytmu sortowania bąbelkowego (patrz: https://www.algorytm.edu.pl/algorytmy-maturalne/sortowanie-babelkowe.html ). Wypisać element największy i najmniejszy w tablicy.
+4. Zadeklarować tablicę 100-elementową, wypełnić ją liczbami losowymi z przedziału [-100,100] i posortować tablicę korzystając z algorytmu sortowania bąbelkowego (patrz: https://www.algorytm.edu.pl/algorytmy-maturalne/sortowanie-babelkowe.html ). Wypisać element największy i najmniejszy w tablicy.
 
 5. Bez sortowania tablicy 100-elementowej z powyższego zadania wypisać:
 
