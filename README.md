@@ -10,7 +10,9 @@
 
 4. Zadeklarować tablicę 100-elementową, wypełnić ją liczbami losowymi z przedziału [-100,100] i posortować tablicę korzystając z algorytmu sortowania bąbelkowego (patrz: https://www.algorytm.edu.pl/algorytmy-maturalne/sortowanie-babelkowe.html ). Wypisać element największy i najmniejszy w tablicy.
 
-5. Bez sortowania tablicy 100-elementowej z powyższego zadania wypisać:
+## Zadanie domowe
+
+Bez sortowania tablicy 100-elementowej z powyższego zadania wypisać:
 
 a) najmniejszy element
 
