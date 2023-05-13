@@ -1,21 +1,9 @@
-# Zajęcia 9
+# Zajęcia 10
 
 ## Zadania
 
-1. Napisz program, który wczyta 3 liczby a następnie wypisze je w kolejności rosnącej (można użyć funkcji swap).
-
-2. Napisz powyższy program bez użycia funkcji swap.
-
-3. Napisz program, który uporządkuje 3 liczby malejąco BEZ POWTÓRZEŃ (jeśli jakaś liczba pojawia się kilkukrotnie, wypisz ją tylko raz).
-
-4. Zadeklarować tablicę 100-elementową, wypełnić ją liczbami losowymi z przedziału [-100,100] i posortować tablicę korzystając z algorytmu sortowania bąbelkowego (patrz: https://www.algorytm.edu.pl/algorytmy-maturalne/sortowanie-babelkowe.html ) LUB sortowania przez wybór (patrz: https://www.algorytm.edu.pl/algorytmy-maturalne/sortowanie-przez-selekcje-wybieranie.html ). Wypisać element największy i najmniejszy w tablicy.
-
-## Zadanie domowe
-
-Bez sortowania tablicy 100-elementowej z powyższego zadania wypisać:
-
-a) najmniejszy element
-
-b) największy element
-
-c) dwa najmniejsze elementy (bez powtórzeń, np. dla tablicy {1,5,3,1,2,5,5,6} dwa najmniejsze elementy to 1 i 2)
+1. Napisz FUNKCJĘ, która wypisze miejsca zerowe równania kwadratowego ax^2+bx+c=0. Jako argumenty funkcja powinna przyjmować współczynniki a,b,c. Wzory na miejsca zerowe są dostępne w karcie wzorów CKE: https://www.oke.waw.pl/files/oke_waw_3498wybrane_wzory_matematyczne_EM2023.pdf.pdf . Jeżeli równanie nie ma miejsc zerowych należy wypisać odpowiedni komunikat.
+2. Napisz FUNKCJĘ liczącą silnię z liczby n (n podajemy jako parametr).
+3. Napisz tę samą funkcję w wersji rekurencyjnej.
+4. Napisz funkcję, która sprawdzi, czy dana liczba jest doskonała. Liczbę nazywamy doskonałą, jeśli suma jej podzielników właściwych (a więc mniejszych od niej) jest równa tej liczbie. Przykładowo: 6 jest doskonała, bo jej dzielniki właściwe to 1,2,3 oraz 1+2+3 = 6.
+5. Wykorzystaj funkcje z powyższego zadania i wypisz, ile jest liczb perfekcyjnych w przedziale 1 - 1 000 000. Wypisz największą i najmniejszą z tych doskonałych liczb w tym przedziale.
