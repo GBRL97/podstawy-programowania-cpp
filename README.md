@@ -2,8 +2,9 @@
 
 ## Zadania
 
-1. Napisz FUNKCJĘ, która wypisze miejsca zerowe równania kwadratowego ax^2+bx+c=0. Jako argumenty funkcja powinna przyjmować współczynniki a,b,c. Wzory na miejsca zerowe są dostępne w karcie wzorów CKE: https://www.oke.waw.pl/files/oke_waw_3498wybrane_wzory_matematyczne_EM2023.pdf.pdf . Jeżeli równanie nie ma miejsc zerowych należy wypisać odpowiedni komunikat.
-2. Napisz FUNKCJĘ liczącą silnię z liczby n (n podajemy jako parametr).
-3. Napisz tę samą funkcję w wersji rekurencyjnej.
-4. Napisz funkcję, która sprawdzi, czy dana liczba jest doskonała. Liczbę nazywamy doskonałą, jeśli suma jej podzielników właściwych (a więc mniejszych od niej) jest równa tej liczbie. Przykładowo: 6 jest doskonała, bo jej dzielniki właściwe to 1,2,3 oraz 1+2+3 = 6.
-5. Wykorzystaj funkcje z powyższego zadania i wypisz, ile jest liczb perfekcyjnych w przedziale 1 - 1 000 000. Wypisz największą i najmniejszą z tych doskonałych liczb w tym przedziale.
+1. Napisz program, w którym stworzysz funkcję czyPodzielnaPrzez3Lub5, która sprawdza, czy dana liczba jest podzielna przez 3 lub 5. Program ma za zadanie zwrócić SUMĘ wszystkich liczb naturalnych mniejszych od 1000, które są podzielne przez 3 lub 5. Wynik swojego rozwiązania sprawdź na stronie: https://projecteuler.net/problem=1 .
+2. Napisz program, który znajdzie największy dzielnik liczby 600851475143 będący liczbą pierwszą. Wynik swojego rozwiązania sprawdź na stronie: https://projecteuler.net/problem=3 .
+
+## Zadanie domowe
+
+1. Liczba 2 jest pierwszą liczbą pierwszą, liczba 3 drugą, 5 trzecią etc. Znajdź 1001.wszą liczbę pierwszą. Wynik swojego rozwiązania sprawdź na stronie: https://projecteuler.net/problem=7 .
