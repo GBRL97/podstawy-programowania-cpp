@@ -11,3 +11,5 @@ Project Euler: https://projecteuler.net/
 Pasja informatyki: https://www.youtube.com/c/Pasjainformatykitutoriale
 
 Strona cpp0x: https://cpp0x.pl/
+
+Chat GPT: https://chat.openai.com/
