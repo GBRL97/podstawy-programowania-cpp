@@ -18,7 +18,8 @@ Sk = s1 + s2 + … + sk
 Głębokością wyrażenia W nazwiemy największą głębokość jego nawiasów, czyli maksimum
 z liczb Sk.
 
-## Wskaż, czy dane wyrażenie nawiasowe jest poprawne. Wpisz Tak, jeśli wyrażenie jest poprawne lub Nie – jeśli nie jest poprawne.
+## Zadanie 1
+Wskaż, czy dane wyrażenie nawiasowe jest poprawne. Wpisz Tak, jeśli wyrażenie jest poprawne lub Nie – jeśli nie jest poprawne.
 
 Wyrażenie nawiasowe Poprawne (Tak/Nie)
 
@@ -33,7 +34,8 @@ Wyrażenie nawiasowe Poprawne (Tak/Nie)
 [ [ ] [ ] [ [ [ ] [ ] ] [ ] ] ]
 
 
-## Dla zadanych przykładów policz głębokość wyrażenia.
+## Zadanie 2
+Dla zadanych przykładów policz głębokość wyrażenia.
 Wyrażenie nawiasowe Głębokość
 
 [ ]                     1
@@ -48,5 +50,7 @@ Wyrażenie nawiasowe Głębokość
 
 
 
-## Napisz funkcje, która dla zadanego wyrażenia nawiasowego zwróci wartość logiczną odpowiadającą pytaniu, czy dane wyrażenie jest poprawne.
-## Napisz funkcję, która dla zadanego wyrażenia nawiasowego zwróci jego głębokość (o ile jest poprawne) lub -1, jeśli nie jest poprawne.
+## Zadanie 3
+Napisz funkcje, która dla zadanego wyrażenia nawiasowego zwróci wartość logiczną odpowiadającą pytaniu, czy dane wyrażenie jest poprawne.
+
+## Zadanie 4Napisz funkcję, która dla zadanego wyrażenia nawiasowego zwróci jego głębokość (o ile jest poprawne) lub -1, jeśli nie jest poprawne.
