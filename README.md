@@ -59,4 +59,5 @@ Wyrażenie nawiasowe Głębokość
 Napisz funkcje, która dla zadanego wyrażenia nawiasowego zwróci wartość logiczną odpowiadającą pytaniu, czy dane wyrażenie jest poprawne.
 
 ## Zadanie 4
+
 Napisz funkcję, która dla zadanego wyrażenia nawiasowego zwróci jego głębokość (o ile jest poprawne) lub -1, jeśli nie jest poprawne.
