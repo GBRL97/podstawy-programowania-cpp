@@ -21,19 +21,31 @@ z liczb Sk.
 ## Wskaż, czy dane wyrażenie nawiasowe jest poprawne. Wpisz Tak, jeśli wyrażenie jest poprawne lub Nie – jeśli nie jest poprawne.
 
 Wyrażenie nawiasowe Poprawne (Tak/Nie)
-[ ] Tak
+
+[ ]                           Tak
+
 [ ] [ ]
+
 [ [ ] [ ] ] [ ] ]
+
 [ ] [ [ ] [ [ ] [ [ ] [ ] ] ] ]
+
 [ [ ] [ ] [ [ [ ] [ ] ] [ ] ] ]
+
 
 ## Dla zadanych przykładów policz głębokość wyrażenia.
 Wyrażenie nawiasowe Głębokość
-[ ] 1
+
+[ ]                     1
+
 [ ] [ ]
+
 [ [ ] [ ] ]
+
 [ [ ] [ [ ] ] ]
+
 [ [ [ [ ] [ ] ] [ ] ] ]
+
 
 
 ## Napisz funkcje, która dla zadanego wyrażenia nawiasowego zwróci wartość logiczną odpowiadającą pytaniu, czy dane wyrażenie jest poprawne.
