@@ -5,11 +5,16 @@
 Wyrażeniem nawiasowym nazywamy dowolny skończony ciąg nawiasów: „[” i „]”.
 Przykładowo: [[ ] [ ] ]
 Wyrażenie nawiasowe jest poprawne, jeśli:
+
 – jest wyrażeniem pustym (nie zawiera żadnych nawiasów)
+
 – jest postaci AB, gdzie A i B są poprawnymi wyrażeniami nawiasowymi
+
 – jest postaci [ A ], gdzie A jest poprawnym wyrażeniem nawiasowym
+
 Przykład: wyrażenia [ [ ] ] oraz [ [ ] [ ] ] są poprawne. Niepoprawne jest za to wyrażenie
 [ ] ] [ ] ].
+
 Niech w1, w2, …, wn będą kolejnymi nawiasami w pewnym wyrażeniu nawiasowym W.
 Przyjmijmy teraz, że z każdym nawiasem otwierającym „[” wiążemy liczbę +1, a z każdym
 nawiasem zamykającym „]” – liczbę -1. Niech si będzie liczbą związaną z nawiasem wi.
